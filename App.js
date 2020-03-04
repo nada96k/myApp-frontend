@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>It's myApp96</Text>
+      <Text>It's nada </Text>
     </View>
   );
 }
